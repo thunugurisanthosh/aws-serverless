@@ -1,5 +1,7 @@
 #Project : Serverless Web Application (Lambda + API Gateway + DynamoDB + S3 + CloudFront).
-#
+
+![Screenshot (65)](https://github.com/user-attachments/assets/633e4002-c659-40af-a2ac-d471ca7718c2)
+
 I built a serverless full-stack web application on AWS to manage student records (create and view). The system uses AWS Lambda, API Gateway, DynamoDB, S3, and CloudFront to provide a scalable, cost-efficient, and fully managed solution with no traditional servers.
 
 
